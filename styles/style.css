@@ -84,7 +84,7 @@ body {
 }
 /* style why web development section */
 #about-development {
-  background-color: #f7f7f7;
+  background: rgb(250, 250, 251);
   width: 1550px;
   height: 1393px;
   margin-top: 75px;
@@ -282,7 +282,7 @@ body {
   opacity: 0.7;
   margin: 8px 0px;
 }
-.language-section > a {
+.language-section a {
   color: rgb(13, 19, 33);
   font-size: 16px;
   font-weight: 700;
